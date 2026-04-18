@@ -4,7 +4,7 @@
 --- MOD_AUTHOR: [Mr. Onyx]
 --- MOD_DESCRIPTION: A proper chinese translated done by human person.
 --- LOADER_VERSION_GEQ: 1.0.0
---- VERSION: 2.0.0
+--- VERSION: 1.0.0
 --- BADGE_COLOR: 009dff
 
 
